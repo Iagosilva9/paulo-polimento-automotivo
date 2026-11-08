@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://paulopolimentoautomotivo.com.br/sitemap.xml
